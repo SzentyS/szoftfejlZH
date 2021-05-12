@@ -1,0 +1,6 @@
+1. feladat
+
+a
+	a szakértő neve (User)
+	a kép neve (ImageName)
+	a hiba adatai: szélesség, hosszúság, X, Y koordiánta
